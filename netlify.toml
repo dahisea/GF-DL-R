@@ -29,4 +29,3 @@
   from = "/*"
   to = "https://gfork.dahi.icu/404"
   status = 301
-  force = true
