@@ -1,0 +1,32 @@
+[[redirects]]
+  from = "/"
+  to = "https://gfork.dahi.icu/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/favicon.ico"
+  to = "https://gfork.dahi.icu/favicon.ico"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/scripts/*"
+  to = "https://cdn-r1-mod-ugf.zh-cn.eu.org/scripts/:splat"
+  status = 307
+  force = true
+  weight = 33  
+
+[[redirects]]
+  from = "/scripts/*"
+  to = "https://cdn-r2-mod-ugf.zh-cn.eu.org/scripts/:splat"
+  status = 307
+  force = true
+  weight = 33  
+
+[[redirects]]
+  from = "/scripts/*"
+  to = "https://cdn-1-mod-ugf.zh-cn.eu.org/scripts/:splat"
+  status = 307
+  force = true
+  weight = 34 
