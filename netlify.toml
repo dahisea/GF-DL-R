@@ -1,10 +1,4 @@
 [[redirects]]
-  from = "/"
-  to = "https://gfork.dahi.icu/"
-  status = 301
-  force = true
-
-[[redirects]]
   from = "/favicon.ico"
   to = "https://gfork.dahi.icu/favicon.ico"
   status = 301
@@ -30,3 +24,9 @@
   status = 307
   force = true
   weight = 34 
+
+[[redirects]]
+  from = "/*"
+  to = "https://gfork.dahi.icu/404"
+  status = 301
+  force = true
