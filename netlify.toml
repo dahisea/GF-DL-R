@@ -8,21 +8,18 @@
   from = "/scripts/*"
   to = "https://cdn-r1-mod-ugf.zh-cn.eu.org/scripts/:splat"
   status = 307
-  force = true
   weight = 33  
 
 [[redirects]]
   from = "/scripts/*"
   to = "https://cdn-r2-mod-ugf.zh-cn.eu.org/scripts/:splat"
   status = 307
-  force = true
   weight = 33  
 
 [[redirects]]
   from = "/scripts/*"
   to = "https://cdn-1-mod-ugf.zh-cn.eu.org/scripts/:splat"
   status = 307
-  force = true
   weight = 34 
 
 [[redirects]]
