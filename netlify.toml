@@ -6,21 +6,8 @@
 
 [[redirects]]
   from = "/scripts/*"
-  to = "https://cdn-r1-mod-ugf.zh-cn.eu.org/scripts/:splat"
-  status = 307
-  weight = 1
-
-[[redirects]]
-  from = "/scripts/*"
-  to = "https://cdn-r2-mod-ugf.zh-cn.eu.org/scripts/:splat"
-  status = 307
-  weight = 1
-
-[[redirects]]
-  from = "/scripts/*"
   to = "https://cdn-1-mod-ugf.zh-cn.eu.org/scripts/:splat"
-  status = 307
-  weight = 2
+  status = 308
 
 [[redirects]]
   from = "/*"
