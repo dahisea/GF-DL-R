@@ -6,7 +6,7 @@
 
 [[redirects]]
   from = "/scripts/*"
-  to = "https://cdn-1-mod-ugf.zh-cn.eu.org/scripts/:splat"
+  to = "https://static-sg-apse1-primary-mirror-aws-s3-cloudfront-public-cdn.dahi.edu.eu.org/scripts/:splat"
   status = 308
 
 [[redirects]]
