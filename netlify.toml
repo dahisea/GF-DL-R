@@ -12,4 +12,4 @@
 [[redirects]]
   from = "/*"
   to = "https://dahisea.github.io/GF-WWW/"
-  status = 301
+  status = 200
