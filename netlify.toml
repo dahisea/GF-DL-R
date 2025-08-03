@@ -42,10 +42,10 @@
 
 [[redirects]]
   from = "/scripts/*"
-  to = "https://static-sg-apse1-primary-mirror-aws-s3-cloudfront-public-cdn.dahi.edu.eu.org.cdn.cloudflare.net/scripts/:splat"
+  to = "https://static-sg-apse1-primary-mirror-aws-s3-cloudfront-public-cdn.dahi.edu.eu.org/scripts/:splat"
   status = 308
 
 [[redirects]]
   from = "/*"
-  to = "https://cdn.greasyfork.org.cn/404"
+  to = "/404"
   status = 200
