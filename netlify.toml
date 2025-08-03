@@ -45,7 +45,3 @@
   to = "https://static-sg-apse1-primary-mirror-aws-s3-cloudfront-public-cdn.dahi.edu.eu.org/scripts/:splat"
   status = 308
 
-[[redirects]]
-  from = "/*"
-  to = "/404"
-  status = 200
